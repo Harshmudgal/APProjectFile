@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Remainder>
+<Birthday>
+    <Date>16 March</Date>
+    <name>ABCD</name>
+    <Venue>WER Hall No-7, Haryana</Venue>
+</Birthday>
+<Meeting>
+    <Date>10 July, 2020</Date>
+    <Venue>XYZ Hall No-5, New Delhi</Venue>
+    <Topic>Introduction to AI and ML</Topic>
+</Meeting>
+</Remainder>
